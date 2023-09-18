@@ -11,7 +11,7 @@ This Python script generates a random password based on user-defined length and 
 1. Run the script using a Python interpreter:
 
    ```bash
-   python random_password_generator.py
+   Password_generation.py
 
  `[Hollali Kelvin]` and `[Dheztinykartel@gmail.com]` with your own information. 
  This README provides an overview of the script, usage instructions, customization options, licensing, acknowledgments, and contact information.
